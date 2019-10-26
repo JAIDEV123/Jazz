@@ -1,4 +1,4 @@
-# jeez shell
+# Jazz shell
 
 A shell that took some time and effort but was worth it in the end :)
 
@@ -7,6 +7,11 @@ A shell that took some time and effort but was worth it in the end :)
 1. Clone this repository
 2. `cd` into this repo and type `make`
 3. A new file called 'shell' shall be created. Use `./shell` to run the new shell from your terminal.
+
+## Basic Usage Information
+
+1. This shell considers home to be the directory where the executable is stored. Example: ~/Downloads would be the home for this shell if the `shell` executable was in the ~/Downloads directory.
+2. There is a differenciation between the built in commands here and the standard bash ones. Read the README in case of any confusion.
 
 ## What does what
 
